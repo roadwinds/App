@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable background
+drawable bussiness_man
+drawable button_type
+drawable buttontype
+drawable call
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable logo_picture
+drawable password
+id ET1
+id ET2
+id I1
+id btn1
+id call_button
+layout activity_main
+layout activity_main_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Guardian
