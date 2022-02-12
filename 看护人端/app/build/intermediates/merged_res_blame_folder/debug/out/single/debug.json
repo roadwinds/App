@@ -1,118 +1,130 @@
 [
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_picture.png.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\src\\main\\res\\drawable\\logo_picture.png"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_type.xml.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\src\\main\\res\\drawable\\button_type.xml"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable_bussiness_man.png.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\drawable\\bussiness_man.png"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable_background.png.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\src\\main\\res\\drawable\\background.png"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable_buttontype.xml.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\src\\main\\res\\drawable\\buttontype.xml"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable_password.png.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\drawable\\password.png"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_picture.png.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\drawable\\logo_picture.png"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable_call.xml.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\drawable\\call.xml"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable_bottom_btn.xml.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\drawable\\bottom_btn.xml"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable_password.png.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\src\\main\\res\\drawable\\password.png"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable_call.xml.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\src\\main\\res\\drawable\\call.xml"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main_menu.xml.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\layout\\activity_main_menu.xml"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main_menu.xml.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\src\\main\\res\\layout\\activity_main_menu.xml"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable_background.png.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\drawable\\background.png"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_mic_none_24.xml.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\drawable\\ic_baseline_mic_none_24.xml"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_type.xml.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\drawable\\button_type.xml"
     },
     {
-        "merged": "E:\\Github\\App\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable_bussiness_man.png.flat",
-        "source": "E:\\Github\\App\\看护人端\\app\\src\\main\\res\\drawable\\bussiness_man.png"
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable_buttontype.xml.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\drawable\\buttontype.xml"
+    },
+    {
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_round_brightness_1_24.xml.flat",
+        "source": "E:\\BeatsLeo\\AndroidApp\\看护人端\\app\\src\\main\\res\\drawable\\ic_round_brightness_1_24.xml"
     }
 ]

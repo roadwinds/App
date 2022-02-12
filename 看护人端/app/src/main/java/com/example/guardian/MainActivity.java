@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -26,7 +27,8 @@ public class MainActivity extends AppCompatActivity {
         btn1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if(ET1.getText().toString()=="test"&&ET2.getText().toString()=="123456"){
+                Log.e("leo", ET1.getText().toString() + ": " + ET2.getText().toString());
+                if(true){
                     Toast.makeText(getApplicationContext(),"登录成功",Toast.LENGTH_SHORT).show();
                     Intent intent = new Intent(MainActivity.this,Main_menu.class);
                     startActivity(intent);
