@@ -17,28 +17,6 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="2"/>
-    <TableRow
-        android:orientation="horizontal"
-        >
-    <Button
-        android:layout_width="0dp"
-        android:layout_weight="1"
-        />
-    <Button
-        android:id="@+id/call_button"
-        android:layout_width="50dp"
-        android:layout_height="50dp"
-        android:layout_marginBottom="10dp"
-        android:background="@drawable/bottom_btn"
-        android:backgroundTint="@color/green_blue"
-        android:foreground="@drawable/ic_baseline_mic_none_24"
-        android:foregroundTint="@color/white"
-        />
-        <Button
-            android:layout_width="0dp"
-            android:layout_weight="1"
-            android:backgroundTint="@color/green_blue"
-            />
-    </TableRow>
+    <include layout="@layout/bottom_layout"/>
 
 </TableLayout>
