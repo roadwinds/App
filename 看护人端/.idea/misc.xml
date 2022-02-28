@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/BeatsLeo/AndroidApp/看护人端/app/src/main/res/drawable/bottom_btn.xml" value="0.13055555555555556" />
+        <entry key="..\:/BeatsLeo/AndroidApp/看护人端/app/src/main/res/drawable/bottom_mic.xml" value="0.16197916666666667" />
         <entry key="..\:/BeatsLeo/AndroidApp/看护人端/app/src/main/res/drawable/button_type.xml" value="0.13055555555555556" />
         <entry key="..\:/BeatsLeo/AndroidApp/看护人端/app/src/main/res/drawable/buttontype.xml" value="0.13055555555555556" />
         <entry key="..\:/BeatsLeo/AndroidApp/看护人端/app/src/main/res/drawable/call.xml" value="0.21481481481481482" />
@@ -15,8 +16,10 @@
         <entry key="..\:/BeatsLeo/AndroidApp/看护人端/app/src/main/res/drawable/old_people.xml" value="0.14583333333333334" />
         <entry key="..\:/BeatsLeo/AndroidApp/看护人端/app/src/main/res/drawable/old_people_selector.xml" value="0.14583333333333334" />
         <entry key="..\:/BeatsLeo/AndroidApp/看护人端/app/src/main/res/layout/activity_main.xml" value="0.1296875" />
-        <entry key="..\:/BeatsLeo/AndroidApp/看护人端/app/src/main/res/layout/activity_main_menu.xml" value="0.16" />
+        <entry key="..\:/BeatsLeo/AndroidApp/看护人端/app/src/main/res/layout/activity_main_menu.xml" value="0.11702127659574468" />
         <entry key="..\:/BeatsLeo/AndroidApp/看护人端/app/src/main/res/layout/bottom_layout.xml" value="0.16770833333333332" />
+        <entry key="..\:/BeatsLeo/AndroidApp/看护人端/app/src/main/res/layout/fragment_blank.xml" value="0.1" />
+        <entry key="..\:/BeatsLeo/AndroidApp/看护人端/app/src/main/res/layout/xiaoxi.xml" value="0.2" />
         <entry key="..\:/Github/App/看护人端/app/src/main/res/drawable/button_type.xml" value="0.1235" />
         <entry key="..\:/Github/App/看护人端/app/src/main/res/drawable/buttontype.xml" value="0.1235" />
         <entry key="..\:/Github/App/看护人端/app/src/main/res/drawable/call.xml" value="0.1235" />

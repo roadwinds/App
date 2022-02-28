@@ -14,6 +14,7 @@ color teal_700
 color unselected
 color white
 drawable background
+drawable bg
 drawable bottom_mic
 drawable bussiness_man
 drawable button_type
@@ -45,14 +46,19 @@ id tab_facility
 id tab_home
 id tab_message
 id tab_old_people
+id text
 id text_facility
 id text_home
 id text_message
 id text_old_people
+id viewpager
 layout activity_main
 layout activity_main_menu
 layout bottom_layout
+layout fragment_blank
+layout xiaoxi
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
+string hello_blank_fragment
 style Theme.Guardian
