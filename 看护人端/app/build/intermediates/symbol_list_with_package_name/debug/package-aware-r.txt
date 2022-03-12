@@ -1152,6 +1152,7 @@ color mtrl_textinput_focused_box_stroke_color
 color mtrl_textinput_hovered_box_stroke_color
 color notification_action_color_filter
 color notification_icon_bg_color
+color notification_material_background_media_default_color
 color primary_dark_material_dark
 color primary_dark_material_light
 color primary_material_dark
@@ -1587,6 +1588,10 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
+dimen subtitle_corner_radius
+dimen subtitle_outline_width
+dimen subtitle_shadow_offset
+dimen subtitle_shadow_radius
 dimen test_mtrl_calendar_day_cornerSize
 dimen test_navigation_bar_active_item_max_width
 dimen test_navigation_bar_active_item_min_width
@@ -1689,6 +1694,7 @@ drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
 drawable background
+drawable bg
 drawable bottom_mic
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
@@ -1813,6 +1819,7 @@ id accessibility_custom_action_6
 id accessibility_custom_action_7
 id accessibility_custom_action_8
 id accessibility_custom_action_9
+id action0
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -1857,6 +1864,7 @@ id btn1
 id buttonPanel
 id cache_measures
 id call_button
+id cancel_action
 id cancel_button
 id center
 id center_horizontal
@@ -1921,6 +1929,7 @@ id edit_query
 id elastic
 id end
 id endToStart
+id end_padder
 id enterAlways
 id enterAlwaysCollapsed
 id exitUntilCollapsed
@@ -1994,6 +2003,7 @@ id material_timepicker_mode_button
 id material_timepicker_ok_button
 id material_timepicker_view
 id material_value_index
+id media_actions
 id message
 id middle
 id mini
@@ -2122,6 +2132,7 @@ id startToEnd
 id startVertical
 id staticLayout
 id staticPostLayout
+id status_bar_latest_event_content
 id stop
 id stretch
 id submenuarrow
@@ -2193,6 +2204,7 @@ id view_offset_helper
 id view_tree_lifecycle_owner
 id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
+id viewpager
 id visible
 id visible_removing_fragment_view_tag
 id withText
@@ -2286,6 +2298,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout fragment_blank
 layout material_chip_input_combo
 layout material_clock_display
 layout material_clock_display_divider
@@ -2331,8 +2344,17 @@ layout mtrl_picker_text_input_date
 layout mtrl_picker_text_input_date_range
 layout notification_action
 layout notification_action_tombstone
+layout notification_media_action
+layout notification_media_cancel_action
+layout notification_template_big_media
+layout notification_template_big_media_custom
+layout notification_template_big_media_narrow
+layout notification_template_big_media_narrow_custom
 layout notification_template_custom_big
 layout notification_template_icon_group
+layout notification_template_lines_media
+layout notification_template_media
+layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
 layout select_dialog_item_material
@@ -2354,6 +2376,7 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
+layout xiaoxi
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
@@ -2397,6 +2420,7 @@ string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
@@ -2817,9 +2841,14 @@ style TextAppearance_AppCompat_Widget_Switch
 style TextAppearance_AppCompat_Widget_TextView_SpinnerItem
 style TextAppearance_Compat_Notification
 style TextAppearance_Compat_Notification_Info
+style TextAppearance_Compat_Notification_Info_Media
 style TextAppearance_Compat_Notification_Line2
+style TextAppearance_Compat_Notification_Line2_Media
+style TextAppearance_Compat_Notification_Media
 style TextAppearance_Compat_Notification_Time
+style TextAppearance_Compat_Notification_Time_Media
 style TextAppearance_Compat_Notification_Title
+style TextAppearance_Compat_Notification_Title_Media
 style TextAppearance_Design_CollapsingToolbar_Expanded
 style TextAppearance_Design_Counter
 style TextAppearance_Design_Counter_Overflow

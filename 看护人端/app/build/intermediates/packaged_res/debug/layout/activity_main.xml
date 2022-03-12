@@ -15,14 +15,15 @@
         android:layout_height="200dp"
         android:layout_centerHorizontal="true"
         android:src="@drawable/logo_picture" />
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="e家康护"
-        android:textSize="20sp"
         android:layout_below="@id/I1"
-        android:paddingLeft="150dp"
-        android:textColor="#FFC107"/>
+        android:textAlignment="center"
+        android:text="e家康护"
+        android:textColor="#FFC107"
+        android:textSize="20sp" />
 
     <EditText
         android:id="@+id/ET1"
